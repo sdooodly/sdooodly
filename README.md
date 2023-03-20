@@ -1,9 +1,12 @@
-### Helololololoooooooo :3
+### Hello, I am Sdoodly! This is my GitHub space tadaadaa!
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://img-9gag-fun.9cache.com/photo/a04Z7wB_460swp.webp">
  <source media="(prefers-color-scheme: light)" srcset="https://img-9gag-fun.9cache.com/photo/a04Z7wB_460swp.webp">
  <img alt="Words of wisdom from MVP Gandalf" src="YOUR-DEFAULT-IMAGE">
 </picture>
+
+### When I'm not brushing funny strokes onto my canvas or slinging code, you can find me nose-deep in a good book, preferably one that involves hobbits, orcs, and wizards. And speaking of wizards, I have a bit of an obsession with Gandalf. I mean, who wouldn't want to be as wise, powerful, and stylishly-bearded as him? And who knows, maybe one day I'll even figure out how to cast a few spells like Gandalf. 😉😉😉
 
 <!--
 **sdooodly/sdooodly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
