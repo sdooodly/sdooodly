@@ -1,8 +1,8 @@
-### Hi there 👋
+### Helololololoooooooo :3
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.imgflip.com/7f39ne.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.imgflip.com/7f39ne.jpg">
- <img alt="Meme Monday" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://img-9gag-fun.9cache.com/photo/a04Z7wB_460swp.webp">
+ <source media="(prefers-color-scheme: light)" srcset="https://img-9gag-fun.9cache.com/photo/a04Z7wB_460swp.webp">
+ <img alt="Words of wisdom from MVP Gandalf" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
 <!--
