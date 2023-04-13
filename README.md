@@ -1,4 +1,4 @@
-### Hello, I am Sdoodly! This is my GitHub space tadaadaa!
+### Hello, I am Sdoodly! This is my GitHub space!
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://img-9gag-fun.9cache.com/photo/a04Z7wB_460swp.webp">
