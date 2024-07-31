@@ -9,11 +9,6 @@
  <source media="(prefers-color-scheme: light)" srcset="https://img-9gag-fun.9cache.com/photo/a04Z7wB_460swp.webp">
  <img alt="Words of wisdom from MVP Gandalf" src="YOUR-DEFAULT-IMAGE">
 </picture>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="./3076587.jpg">
- <source media="(prefers-color-scheme: light)" srcset="./3076587.jpg">
- <img alt="Testtt" src="YOUR-DEFAULT-IMAGE">
-</picture>
 
 <!--
 
