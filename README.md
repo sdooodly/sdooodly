@@ -1,4 +1,4 @@
-### Hellololo, I am Sdoodly! 
+### Hellololo, I am Sdooodly! 
 <!-- This is my GitHub space! -->
 
 
