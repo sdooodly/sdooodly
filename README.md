@@ -19,9 +19,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdooodly&langs_count=20&theme=radical" alt="sdooodly's Languages" />
 </div>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sdooodly&theme=radical&no-frame=true&margin-w=4" alt="sdooodly's GitHub Trophies" />
-</div>
+
 
 <div align="center">
     <img src="https://ghchart.rshah.org/sdooodly" alt="sdooodly's Repos Contributions" />
