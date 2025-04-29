@@ -10,6 +10,89 @@
  <img alt="Words of wisdom from MVP Gandalf" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# GitHub Profile Stats for sdooodly
+
+## Must-Have Stats
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdooodly&theme=radical" alt="Gaya's GitHub Streak" />
+</div>
+
+<div align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=sdooodly&theme=radical&layout=compact" alt="sdooodly's GitHub Contributions" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sdooodly&show_icons=true&theme=radical" alt="sdooodly's GitHub Stats" />
+</div>
+
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/sdooodly?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdooodly&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
+</div>
+
+---
+
+## Additional Stats
+
+These are the additional stats for your GitHub profile. You can select one or more of them and add them to your profile. It is recommended to have a maximum of three of these stats in your profile.
+
+### Detailed Languages
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdooodly&langs_count=20&theme=radical" alt="sdooodly's Languages" />
+</div>
+
+### GitHub Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sdooodly&theme=radical&no-frame=true&margin-w=4" alt="sdooodly's GitHub Trophies" />
+</div>
+
+### Repositories Contribution Graph
+<div align="center">
+    <img src="https://ghchart.rshah.org/sdooodly" alt="sdooodly's Repos Contributions" />
+</div>
+
+### GitHub Contributions Graph
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdooodly&theme=radical" alt="sdooodly's GitHub Achievements" />
+</div>
+
+### Visitor Count
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=sdooodly.sdooodly" alt="Visitor Count" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 
 
