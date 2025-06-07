@@ -4,17 +4,17 @@
 
 
 
-<picture>
+<picture align="center>
  <source media="(prefers-color-scheme: dark)" srcset="https://img-9gag-fun.9cache.com/photo/a04Z7wB_460swp.webp">
  <source media="(prefers-color-scheme: light)" srcset="https://img-9gag-fun.9cache.com/photo/a04Z7wB_460swp.webp">
  <img alt="Words of wisdom from MVP Gandalf" src="YOUR-DEFAULT-IMAGE">
 </picture>
-
+<! ---
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdooodly&theme=radical" alt="Gaya's GitHub Streak" />
 </div>
-<! ---
--->
+
+
 ??????????????????????????????????????????????????????????????????????????????????????
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdooodly&langs_count=20&theme=radical" alt="sdooodly's Languages" />
@@ -33,6 +33,8 @@
 </div>
 
 ![](https://github-profile-trophy.vercel.app/?username=sdooodly&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+-->
 
 
 
