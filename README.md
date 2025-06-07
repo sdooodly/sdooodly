@@ -3,37 +3,29 @@
 
 
 
-
-<picture align="center>
+<div align="center">
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://img-9gag-fun.9cache.com/photo/a04Z7wB_460swp.webp">
  <source media="(prefers-color-scheme: light)" srcset="https://img-9gag-fun.9cache.com/photo/a04Z7wB_460swp.webp">
  <img alt="Words of wisdom from MVP Gandalf" src="YOUR-DEFAULT-IMAGE">
 </picture>
-<! ---
-<div align="center">
+ </div>
+<!-- <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdooodly&theme=radical" alt="Gaya's GitHub Streak" />
 </div>
-
-
-??????????????????????????????????????????????????????????????????????????????????????
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdooodly&langs_count=20&theme=radical" alt="sdooodly's Languages" />
 </div>
-
-
 <div align="center">
     <img src="https://ghchart.rshah.org/sdooodly" alt="sdooodly's Repos Contributions" />
 </div>
-
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdooodly&theme=radical" alt="sdooodly's GitHub Achievements" />
 </div>
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sdooodly.sdooodly" alt="Visitor Count" />
 </div>
-
 ![](https://github-profile-trophy.vercel.app/?username=sdooodly&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
 -->
 
 
