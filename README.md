@@ -13,6 +13,11 @@
  <img alt="Words of wisdom from MVP Gandalf" src="YOUR-DEFAULT-IMAGE">
 </picture>
  </div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[https://www.linkedin.com/in/gayathri-gireesh-sujatha-3606ba189/])
+[![Website](https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=wordpress&logoColor=white)](https://sdooodly.github.io/)
+[![Goodreads](https://img.shields.io/badge/Goodreads-D32F2F?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/111266354-sdooodly)
+[![Medium]](https://medium.com/@sdooodly)
 <!-- <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdooodly&theme=radical" alt="Gaya's GitHub Streak" />
 </div>
