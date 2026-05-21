@@ -1,4 +1,4 @@
-
+[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=sdooodly&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- This is my GitHub space! -->
 
 
